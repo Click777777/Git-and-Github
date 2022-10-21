@@ -1,2 +1,9 @@
-git intit
-git add.
+git intit (start connect with git)
+git add. (if new changes ,use this command)
+git log --oneline (to check committed history)
+git status (to see info)
+git branch -a (to see branches)
+git checkout {that} (to see {that}  )
+git reset {that} (delete commit but still exit code )
+git reset {that} --hard (delete commit and code)
+git branch {that} (create branch)
