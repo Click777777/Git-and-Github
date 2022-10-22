@@ -7,3 +7,5 @@ git checkout {that} (to see {that}  )
 git reset {that} (delete commit but still exit code )
 git reset {that} --hard (delete commit and code)
 git branch {that} (create branch)
+
+addd
