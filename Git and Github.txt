@@ -8,3 +8,9 @@ git reset {that} (delete commit but still exit code )
 git reset {that} --hard (delete commit and code)
 git branch {that} (create branch)
 git checkout -f {branch} (to use if error)
+
+//Push code to github
+git branch -M {that} (to use that for main branch)
+git remote -v (to see url link)
+git push URL master
+git remote add origin URL (or) git remote set-url origin URL
